@@ -1,0 +1,24 @@
+body {
+	background-color: darkgreen;
+	color: white;
+	text-align: center;
+}
+
+.link_box {
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+}
+
+.link_box a {
+	
+}
+
+.box {
+	border: 1px solid white;
+	padding: 10px;
+}
+
+.about img{
+	height: 150px;
+}
